@@ -1,6 +1,6 @@
 var Stringer = function() {};
 
-Stringer.protoype.output = function(input) {
+Stringer.prototype.output = function(input) {
  // Go forth and conquer.
 };
 
