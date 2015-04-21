@@ -1,0 +1,13 @@
+{
+	"globals" : {
+		/* Jasmine */
+		"require"	: false, 
+		"expect"	: false,
+		"describe"	: false,
+		"xit"		: false,  
+		"it"		: false,
+		
+		/* Nodejs */
+		"module"	: false
+	}
+}
